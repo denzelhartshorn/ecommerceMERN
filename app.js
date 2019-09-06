@@ -16,7 +16,7 @@ mongoose
   .then(() => console.log("db connected"));
 
 //routes middleware
-app.use(userRoutes);
+app.use("/api", userRoutes);
 
 const port = process.env.PORT || 8001;
 
