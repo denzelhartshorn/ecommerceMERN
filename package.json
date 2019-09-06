@@ -1,0 +1,25 @@
+{
+  "name": "eCommerceMERN",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denzelhartshorn/ecommerceMERN.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denzelhartshorn/ecommerceMERN/issues"
+  },
+  "homepage": "https://github.com/denzelhartshorn/ecommerceMERN#readme",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.2"
+  }
+}
