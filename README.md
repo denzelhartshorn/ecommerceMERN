@@ -1,6 +1,6 @@
 Currently in progress!
 
-e-Commerce website with a front and back end and authentication.  
+e-Commerce website with a front end end that contains multiple pages to view, filter and purchase products as well as a back end to support the data of sellers.
 
 Ask me how its going!
 
